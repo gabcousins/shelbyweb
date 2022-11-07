@@ -1,0 +1,151 @@
+.top-container {
+    background-color: #E4F9F5;
+    position: relative;
+    padding-top: 100px;
+}
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+}
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+}
+#shelby{
+    font-size: 562.5%;
+    margin: 50px ;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    color: #66BFBF;
+}
+.rp{
+    font-family: Century Gothic;
+    font-size: 2rem;
+    text-decoration: underline;
+}
+#des{
+    margin-top: 40px;
+    font-family: Segoe UI Semibold;
+}
+.des{
+    font-family: Segoe UI Semibold;
+    font-size: 2rem;
+}
+#car{
+    width: 750px;
+    height: 400p
+}
+#para1{
+    font-size: 1.3rem;
+}
+#para2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    font-weight: normal;
+    color: #66BFBF;
+    text-decoration: underline;
+}
+#profile{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 3rem;
+    font-weight: normal;
+    color: #66BFBF;
+    text-decoration: underline;
+}
+#custom{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-size: 2rem;
+    font-weight: normal;
+
+}
+.middle{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+#img{
+    width: 26%;
+    float: left;
+    margin-right: 30px;
+}
+#para3{
+font-size: 1.2rem;
+font-family: 'Montserrat', sans-serif;
+}
+#trading{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-size: 2rem;
+    font-weight: normal;
+}
+#img2{
+    width: 26%;
+    float: left;
+    margin-right: 30px;
+}
+#para4{
+    font-size: 1.3rem;
+font-family: 'Montserrat', sans-serif;
+}
+#img3{
+    width: 41%;
+    float: right;
+    margin-left: 30px;
+}
+#selling{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-size: 2rem;
+    font-weight: normal;
+}
+#para5{
+    font-size: 1.3rem;
+    font-family: 'Montserrat', sans-serif;
+}
+#creator{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-size: 2rem;
+    font-weight: normal;
+}
+#img4{
+    width: 41%;
+    float: right;
+    margin-left: 30px;
+}
+#para6{
+    font-size: 1.3rem;
+    font-family: 'Montserrat', sans-serif; 
+}
+.bottom-link{
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.bottom{
+    text-align: center;
+    color: rgb(52, 47, 47);
+    font-size: 2rem;
+    
+}
+.contact{
+    font-size: 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: normal;
+    text-decoration: underline;
+
+}
+.box{
+    width: 100%;
+    height: 30px;
+    color: red;
+}
+
